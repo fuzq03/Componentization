@@ -26,3 +26,6 @@ rootProject.name = "Componentization"
 include ':app'
 include ':Baselibs'
 include ':login'
+include ':share2'
+include ':share'
+include ':mine'
